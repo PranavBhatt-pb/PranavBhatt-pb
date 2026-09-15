@@ -14,21 +14,23 @@
 
 <br/>
 
-> *"Bridging formal computational theory with low-latency intelligent systems."*
+> *"Bridging formal computational theory with real-time, low-latency intelligent systems."*
 
 </div>
 
 ---
 
-### 👨‍💻 About
+### 👨‍💻 About Me
 
-I am a **Computer Science and Engineering graduate (July 2024)** focused on low-latency systems engineering and applied machine learning. My technical work combines rigorous theoretical foundations—automata theory, formal grammars, and algorithmic complexity—with pragmatic backend engineering.
+I am a **Computer Science and Engineering graduate (B.Tech, July 2024)** focused on low-latency systems engineering, applied deep learning, and computational linguistics. My work balances rigorous theoretical computer science foundations with pragmatic backend systems.
 
-Currently preparing for an English-taught **M.Sc. in Computer Science / Artificial Intelligence** at top European public research universities (Fall 2027 intake).
+- 🎓 **Academic Foundation:** B.Tech in Computer Science & Engineering (2020–2024) with deep emphasis on algorithmic complexity, discrete mathematics, and relational database architectures.
+- 🔬 **Current Research Focus:** Full-duplex asynchronous streaming pipelines, formal syntactic parsers (CFG / NP chunking), and computer vision architectures.
+- 🎯 **Postgraduate Trajectory:** Preparing for an English-taught **M.Sc. in Computer Science / Artificial Intelligence** at premier European public research universities (Fall 2027 Intake).
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Stack & Core Competencies
 
 <div align="center">
 
@@ -36,8 +38,71 @@ Currently preparing for an English-taught **M.Sc. in Computer Science / Artifici
   <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,opencv,postgres,fastapi,docker,linux,git&theme=dark" alt="Tech Stack" />
 </a>
 
-<br/><br/>
+</div>
 
-<sub>Open to graduate research discussions, open-source development, and academic collaborations.</sub>
+<br/>
+
+* **Languages & Core:** Python, C++, SQL (PostgreSQL, MySQL), Bash
+* **AI, Machine Learning & NLP:** TensorFlow, OpenCV, NLTK, Scikit-Learn, Context-Free Grammars
+* **Systems & Backend:** WebSockets, FastAPI, RESTful APIs, Docker, Linux
+
+---
+
+### 🚀 Featured Engineering Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🎙️ Voice AI Agent</h3>
+      <p align="center">
+        <code>Python</code> <code>WebSockets</code> <code>Deepgram</code> <code>LLM</code>
+      </p>
+      <p>Full-duplex real-time voice assistant engineered for <strong>sub-500ms</strong> response latency via asynchronous WebSocket audio streaming and LLM orchestration.</p>
+      <p align="center">
+        <a href="https://github.com/PranavBhatt-pb/voice-agent-deepgram"><strong>View Repository →</strong></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🧠 NLP CFG Parser</h3>
+      <p align="center">
+        <code>Python</code> <code>NLTK</code> <code>Automata</code> <code>Grammars</code>
+      </p>
+      <p>Syntactic parsing engine implementing formal <strong>Context-Free Grammars (CFG)</strong> and noun phrase chunking for automated syntax tree extraction.</p>
+      <p align="center">
+        <a href="https://github.com/PranavBhatt-pb/NLP-Sentence-Parser"><strong>View Repository →</strong></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🚗 Traffic Sign CNN</h3>
+      <p align="center">
+        <code>Python</code> <code>TensorFlow</code> <code>OpenCV</code> <code>CNN</code>
+      </p>
+      <p>Deep Convolutional Neural Network trained to classify <strong>43 categories</strong> of road traffic signs with OpenCV image preprocessing and normalization.</p>
+      <p align="center">
+        <a href="https://github.com/PranavBhatt-pb/Traffic-Sign-Recognition"><strong>View Repository →</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏛️ Core Computer Science Foundations
+
+* **Theoretical Computer Science:** Automata Theory, Formal Grammars, Chomsky Hierarchy, Algorithmic Complexity
+* **Data Structures & Algorithms:** Graph Theory, Dynamic Programming, Advanced Tree Traversal, Optimization
+* **Systems & Architecture:** Operating Systems, Concurrency, Socket Programming, Asynchronous Pipelines
+* **Database Systems:** Relational Schema Architecture, Normalization, Query Plan Optimization
+
+---
+
+<div align="center">
+
+### 📬 Connect & Collaborate
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-bhatt-903217404/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PranavBhatt-pb)
+
+<p><em>Open to academic research collaborations, open-source development, and graduate study discussions.</em></p>
 
 </div>
