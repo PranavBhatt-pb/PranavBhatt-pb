@@ -15,12 +15,10 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Science and Engineering graduate (B.Tech, July 2024)** focused on low-latency systems engineering, applied deep learning, and computational linguistics. My work balances theoretical computer science—automata theory, discrete structures, and algorithmic complexity—with pragmatic backend engineering.
+I am a **Computer Science and Engineering graduate (B.Tech, 2024)** focused on AI and Software engineering.
 
 - 🎓 **Education:** B.Tech in Computer Science & Engineering (2020–2024)
-- 🎯 **Academic Trajectory:** Preparing for postgraduate research and an English-taught **M.Sc. in Computer Science / Artificial Intelligence** (Fall 2027 Intake) at European public research universities.
-- 🔬 **Current Focus:** Asynchronous streaming pipelines, formal syntactic parsers (CFG/NP chunking), and computer vision architectures.
-- 💡 **Core Strengths:** Algorithmic thinking, clean architecture, and rapid end-to-end prototyping.
+- 🎯 **Academic Trajectory:** Preparing for postgraduate research **M.Sc. in Computer Science / Artificial Intelligence** at European public research universities.
 
 ---
 
@@ -31,11 +29,9 @@ I am a **Computer Science and Engineering graduate (B.Tech, July 2024)** focused
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 #### 🤖 AI, Machine Learning & NLP
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -52,7 +48,6 @@ I am a **Computer Science and Engineering graduate (B.Tech, July 2024)** focused
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
