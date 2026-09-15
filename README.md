@@ -13,7 +13,7 @@
 
 ### About Me
 
-Computer Science graduate (B.Tech, July 2024) focused on low-latency systems engineering, applied machine learning, and computational linguistics. Combining core theoretical foundations—automata theory, discrete mathematics, and algorithms—with pragmatic backend engineering. Currently preparing for an English-taught **M.Sc. in Computer Science / Artificial Intelligence** at European public research universities (Fall 2027 intake).
+Computer Science graduate (B.Tech, 2024) focused on AI and machine learning/Software Enginnering. Currently preparing for **M.Sc. in Computer Science / Artificial Intelligence** at European public research universities.
 
 ---
 
@@ -24,7 +24,6 @@ Computer Science graduate (B.Tech, July 2024) focused on low-latency systems eng
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
