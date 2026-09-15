@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Science and Engineering graduate** focused on Software engineering, AI and Machine learning, Data Science/Analytics.
+I am a **Computer Science and Engineering graduate (B.Tech, 2024)** focused on Software engineering, AI and Machine learning, Data Science/Analytics.
 
 - 🎓 **Academic Foundation:** B.Tech in Computer Science & Engineering (2020–2024) with deep emphasis on Intelligent Tech and Computer Science.
 - 🔬 **Current Research Focus:** Machine learning, A.I. systems and computer vision.
@@ -44,8 +44,8 @@ I am a **Computer Science and Engineering graduate** focused on Software enginee
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-bhatt-903217404/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PranavBhatt-pb)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_HANDLE)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+[![Instagram](https://img.shields.io/badge/Instagram-p.d.b.arts-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/p.d.b.arts/)
+[![Email](https://img.shields.io/badge/Email-pranav28.bhatt%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pranav28.bhatt@gmail.com)
 
 <p><em>Open to academic research collaborations, open-source development, and graduate study discussions.</em></p>
 
