@@ -1,28 +1,48 @@
+<div align="center">
+
 # Pranav Bhatt
+**Computer Science Graduate • Systems & Applied AI • Prospective M.Sc. Student**
 
-**Computer Science Graduate** | B.Tech CSE (Class of 2024)  
-*Focus:* Low-Latency Systems • Applied Deep Learning • Computational Linguistics  
-*Goal:* M.Sc. in Computer Science & AI (Europe, Fall 2027)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-bhatt-903217404/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PranavBhatt-pb)
+[![Target](https://img.shields.io/badge/M.Sc.%20Target-Europe%202027-008C45?style=flat-square&logo=academia&logoColor=white)](#)
 
-[LinkedIn](https://www.linkedin.com/in/pranav-bhatt-903217404/) • [GitHub](https://github.com/PranavBhatt-pb) • [All Repositories](https://github.com/PranavBhatt-pb?tab=repositories)
-
----
-
-### About
-
-I hold a Bachelor of Technology in Computer Science and Engineering (July 2024). My work bridges theoretical computer science—automata, discrete structures, and algorithmic complexity—with low-latency backend engineering and applied AI. Currently preparing for postgraduate studies in European research institutions.
-
-- **Languages:** Python, C++, SQL, Bash
-- **Frameworks & AI:** TensorFlow, OpenCV, NLTK, Scikit-Learn
-- **Systems & Infrastructure:** WebSockets, FastAPI, PostgreSQL, Docker, Linux
+</div>
 
 ---
 
-### Selected Projects
+### About Me
 
-- 🎙️ [**voice-agent-deepgram**](https://github.com/PranavBhatt-pb/voice-agent-deepgram) — Real-time conversational agent with sub-500ms latency via full-duplex WebSockets and streaming audio pipelines.
-- 🧠 [**NLP-Sentence-Parser**](https://github.com/PranavBhatt-pb/NLP-Sentence-Parser) — AI syntactic parser based on formal Chomsky Context-Free Grammars (CFG) and noun phrase chunking.
-- 🚗 [**Traffic-Sign-Recognition**](https://github.com/PranavBhatt-pb/Traffic-Sign-Recognition) — Convolutional Neural Network (CNN) for 43-class traffic sign image classification.
+Computer Science graduate (B.Tech, July 2024) focused on low-latency systems engineering, applied machine learning, and computational linguistics. Combining core theoretical foundations—automata theory, discrete mathematics, and algorithms—with pragmatic backend engineering. Currently preparing for an English-taught **M.Sc. in Computer Science / Artificial Intelligence** at European public research universities (Fall 2027 intake).
 
 ---
-<sub>Open to graduate research discussions and open-source collaborations.</sub>
+
+### Core Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### Featured Work
+
+* 🎙️ [**voice-agent-deepgram**](https://github.com/PranavBhatt-pb/voice-agent-deepgram)  
+  *Real-time conversational voice agent* with sub-500ms latency using asynchronous WebSockets, streaming STT/TTS, and LLM orchestration.
+
+* 🧠 [**NLP-Sentence-Parser**](https://github.com/PranavBhatt-pb/NLP-Sentence-Parser)  
+  *Context-Free Grammar (CFG) syntactic parser* for natural language syntax tree generation and Noun Phrase (NP) chunk extraction using NLTK and automata theory.
+
+* 🚗 [**Traffic-Sign-Recognition**](https://github.com/PranavBhatt-pb/Traffic-Sign-Recognition)  
+  *Deep Convolutional Neural Network (CNN)* classifying 43 categories of traffic signs using TensorFlow/Keras and OpenCV preprocessing.
+
+---
+
+<p align="center">
+  <sub>Open to graduate research discussions, open-source work, and technical collaborations.</sub>
+</p>
