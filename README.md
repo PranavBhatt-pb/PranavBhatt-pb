@@ -2,16 +2,13 @@
 
 # Hi, I'm Pranav Bhatt 👋
 
-### Computer Science Graduate • Systems & Applied AI • Prospective M.Sc. Student
+### Computer Science Graduate • Prospective M.Sc. Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-bhatt-903217404/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PranavBhatt-pb)
 [![Target](https://img.shields.io/badge/Target-M.Sc.%20in%20CS%20%2F%20AI%20(Europe%202027)-008C45?style=for-the-badge&logo=academia&logoColor=white)](#-academic-trajectory--research-focus)
 
 <br/>
-
-> *"Bridging formal computational theory with real-time, low-latency intelligent systems."*
-
 </div>
 
 ---
