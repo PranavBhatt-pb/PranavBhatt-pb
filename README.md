@@ -10,11 +10,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-bhatt-903217404/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PranavBhatt-pb)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_HANDLE)
 [![Target](https://img.shields.io/badge/Target-M.Sc.%20in%20CS%20%2F%20AI%20(Europe%202027)-008C45?style=flat-square&logo=academia&logoColor=white)](#)
-
-<br/>
-
-> *"Bridging formal computational theory with real-time, low-latency intelligent systems."*
 
 </div>
 
@@ -102,6 +99,7 @@ I am a **Computer Science and Engineering graduate (B.Tech, July 2024)** focused
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-bhatt-903217404/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PranavBhatt-pb)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_HANDLE)
 
 <p><em>Open to academic research collaborations, open-source development, and graduate study discussions.</em></p>
 
